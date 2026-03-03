@@ -29,7 +29,6 @@ Clone the repository and build with your preferred C++14 compiler (e.g., g++, cl
 ## Project Structure
 
 - `Utilities/` - Core tensor and neural network utilities
-- `QualcommInterview/` - Example and test files
 
 ## Contributing
 
