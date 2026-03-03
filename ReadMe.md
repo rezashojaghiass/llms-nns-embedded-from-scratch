@@ -30,13 +30,6 @@ Clone the repository and build with your preferred C++14 compiler (e.g., g++, cl
 
 - `Utilities/` - Core tensor and neural network utilities
 
-## Contributing
-
-Contributions are welcome for educational and research purposes. Please open an issue or pull request.
-
-## License
-
-MIT
 
 ## References
 
