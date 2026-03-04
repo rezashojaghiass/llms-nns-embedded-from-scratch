@@ -39,4 +39,4 @@ Clone the repository and build with your preferred C++14 compiler (e.g., g++, cl
 
 ## Disclaimer
 
-This project is for educational and personal research. Not intended for production use.
+This project is still ongoing and it is for educational and personal research. Not intended for production use.
